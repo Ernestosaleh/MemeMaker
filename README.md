@@ -2,13 +2,13 @@
 A program that adjust few or many lines of text into an image to create a meme.
 It can add up to 7 legible lines of text distributed up and down.
 
-##Make a meme
+## Make a meme
 Only three parameters.
-Markup: *A jpg image
-        *Text
-        *A font
+* A jpg image
+* Text
+* A font
     
-##Demo    
+## Demo    
 <!--code-->
 ```python
 from MemeMaker import memefy
