@@ -4,9 +4,9 @@ It can add up to 7 legible lines of text distributed up and down.
 
 ## Make a meme
 Only three parameters.
-* A jpg image
+* Image JPG
 * Text
-* A font
+* Font (Try Impact)
     
 ## Demo    
 <!--code-->
