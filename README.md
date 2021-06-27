@@ -1,5 +1,5 @@
 # MemeMaker
-A program that adjust few or many lines of text into an image to create a meme.
+A program that adjust a line of text into an image to create a meme.
 It can add up to 7 legible lines of text distributed up and down.
 
 ## Make a meme
